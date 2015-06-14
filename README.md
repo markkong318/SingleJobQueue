@@ -59,4 +59,4 @@ underscore.js
 
 ## Future work
 1. It could not just be single job at one time, I wish one day it could running multiple jobs on the same time 
-2. It could be better to have weight on some important job
+2. It could be better to have weight on some important jobs
